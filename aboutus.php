@@ -19,26 +19,26 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="file:///C:/xampp/htdocs/clg/index.php#">Home</a>
+                <a class="nav-link active" aria-current="page" href="index.php#">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="file:///C:/xampp/htdocs/clg/galary.php">Gallery</a>
+                <a class="nav-link" href="galary.php">Gallery</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="file:///C:/xampp/htdocs/clg/aboutdepartment.php">Department</a>
+                <a class="nav-link" href="aboutdepartment.php">Department</a>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Quick Links
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/clg/studentlogin.php">Student Login</a></li>
-                  <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/clg/facultylogin.php">Faculty login</a></li>
+                  <li><a class="dropdown-item" href="studentlogin.php">Student Login</a></li>
+                  <li><a class="dropdown-item" href="facultylogin.php">Faculty login</a></li>
                   <li><hr class="dropdown-divider"></li>
-                  <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/clg/galary.php">Photo Gallery</a></li>
+                  <li><a class="dropdown-item" href="galary.php">Photo Gallery</a></li>
                 </ul>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="file:///C:/xampp/htdocs/clg/aboutus.php" tabindex="-1" aria-disabled="true">About Us</a>
+                <a class="nav-link" href="aboutus.php" tabindex="-1" aria-disabled="true">About Us</a>
               </li>
             </ul>
             <ul class="list-unstyled" style="font-size: 20px;color: rgb(255, 0, 0);">

@@ -19,26 +19,26 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="file:///C:/xampp/htdocs/clg/index.php#">Home</a>
+                <a class="nav-link active" aria-current="page" href="index.php#">Home</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">Gallery</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="file:///C:/xampp/htdocs/clg/aboutdepartment.php">Department</a>
+                <a class="nav-link" href="aboutdepartment.php">Department</a>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Quick Links
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/clg/studentlogin.php">Student Login</a></li>
-                  <li><a class="dropdown-item" href="file:///C:/xampp/htdocs/clg/facultylogin.php">Faculty login</a></li>
+                  <li><a class="dropdown-item" href="studentlogin.php">Student Login</a></li>
+                  <li><a class="dropdown-item" href="facultylogin.php">Faculty login</a></li>
                   <li><hr class="dropdown-divider"></li>
                   <li><a class="dropdown-item" href="#">Photo Gallery</a></li>
                 </ul>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="file:///C:/xampp/htdocs/clg/aboutus.php" tabindex="-1" aria-disabled="true">About Us</a>
+                <a class="nav-link" href="aboutus.php" tabindex="-1" aria-disabled="true">About Us</a>
               </li>
             </ul>
             <ul class="list-unstyled" style="font-size: 20px;color: rgb(255, 0, 0);">
@@ -52,10 +52,10 @@
         <div class="row">
             <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                 <div class="d-grid gap-2">
-                    <button class="btn btn-light" type="button"><a href="file:///C:/xampp/htdocs/clg/aboutdepartment.php" data-bs-toggle="tooltip" title="Some tooltip text!">About Department</a></button>
-                    <button class="btn btn-light" type="button"><a href="file:///C:/xampp/htdocs/clg/associationdept.php" data-bs-toggle="tooltip" title="Some tooltip text!">Association</button>
-                    <button class="btn btn-light" type="button"><a href="file:///C:/xampp/htdocs/clg/activitiesdept.php" data-bs-toggle="tooltip" title="Some tooltip text!">Activities and Events</a></button>
-                    <button class="btn btn-light" type="button"><a href="file:///C:/xampp/htdocs/clg/placementsdept.php" data-bs-toggle="tooltip" title="Some tooltip text!">Placements</a></button>
+                    <button class="btn btn-light" type="button"><a href="aboutdepartment.php" data-bs-toggle="tooltip" title="Some tooltip text!">About Department</a></button>
+                    <button class="btn btn-light" type="button"><a href="associationdept.php" data-bs-toggle="tooltip" title="Some tooltip text!">Association</button>
+                    <button class="btn btn-light" type="button"><a href="activitiesdept.php" data-bs-toggle="tooltip" title="Some tooltip text!">Activities and Events</a></button>
+                    <button class="btn btn-light" type="button"><a href="placementsdept.php" data-bs-toggle="tooltip" title="Some tooltip text!">Placements</a></button>
                   </div>
             </div>
             <div class="col col-12 col-sm-8 col-md-8 col-lg-8 col-xl-8 col-xxl-8">
